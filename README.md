@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @harshramchaware
-- 👀 I’m interested in Coding..
-- 🌱 I’m currently learning BTech in Data Science
-- 💞️ I’m looking to collaborate on My Project
-- 📫 How to reach me EMail,InstaHandle,Linkedln
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Harshdip Ramchaware 💻 BTech Data Science Student | Passionate Developer | Project Builder
 
-<!---
-harshramchaware/harshramchaware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Exploring the world of coding, one project at a time
+
+🌱 Currently learning Data Science and sharpening my web dev skills
+
+💞️ Open to collaborations on innovative tech projects
+
+📂 Projects include:
+
+College Website using HTML, CSS, JS
+
+Election Voting System for secure and transparent digital voting
+
+📫 Reach me via Email, Instagram, or LinkedIn
+
+⚡ Fun fact: I believe every bug is just a misunderstood feature 😉
